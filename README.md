@@ -8,7 +8,15 @@ Each folder in this repository corresponds to a specific assignment or lab sessi
 
 - **Write-ups**: Descriptions and explanations for each question (no solutions).
 - **Handouts**: Original problem folder which contains test cases and the main files where the code is written.
-
+- 
+## Contents
+- **Assignments**
+     a4: backtracking, fibonnaci, sorting, arrays
+     a5: linked list, memoization
+- **Labs**
+     l6d: linked list 
+     MidSem-B: 1d and 2d arrays, transpose of 2d array, sorting, double pointers
+  
 ## How to Use This Repository
 
 1. **Navigate to an Assignment or Lab Folder**: Browse the folder that corresponds to the topic or assignment you’re interested in.
@@ -16,13 +24,6 @@ Each folder in this repository corresponds to a specific assignment or lab sessi
 3. **Review the Handouts**: Each handout contains the problem descriptions, test cases, and the main files for writing code.
 4. **Run the Code**: The code is written directly in the main files within the handouts folder.
 
-## Contents
-- **Assignments**
-     a4: backtracking, fibonnaci, sorting, arrays
-     a5: linked list, memoization
-- **Labs**
-     l6d: linked list 
-     MidSem-B: 1d and 2d arrays, transpose of 2d array, sorting, double pointers 
 
 ## Acknowledgments
 
