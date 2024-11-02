@@ -11,11 +11,11 @@ Each folder in this repository corresponds to a specific assignment or lab sessi
 - 
 ## Contents
 - **Assignments**
-     a4: backtracking, fibonnaci, sorting, arrays
-     a5: linked list, memoization
+     - a4: backtracking, fibonnaci, sorting, arrays
+     - a5: linked list, memoization
 - **Labs**
-     l6d: linked list 
-     MidSem-B: 1d and 2d arrays, transpose of 2d array, sorting, double pointers
+     - l6d: linked list 
+     - MidSem-B: 1d and 2d arrays, transpose of 2d array, sorting, double pointers
   
 ## How to Use This Repository
 
