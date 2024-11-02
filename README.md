@@ -8,7 +8,7 @@ Each folder in this repository corresponds to a specific assignment or lab sessi
 
 - **Write-ups**: Descriptions and explanations for each question (no solutions).
 - **Handouts**: Original problem folder which contains test cases and the main files where the code is written.
-- 
+  
 ## Contents
 - **Assignments**
      - a4: backtracking, fibonnaci, sorting, arrays
