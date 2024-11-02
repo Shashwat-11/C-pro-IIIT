@@ -16,7 +16,14 @@ Each folder in this repository corresponds to a specific assignment or lab sessi
 3. **Review the Handouts**: Each handout contains the problem descriptions, test cases, and the main files for writing code.
 4. **Run the Code**: The code is written directly in the main files within the handouts folder.
 
+## Contents
+- **Assignments**
+     a4: backtracking, fibonnaci, sorting, arrays
+     a5: linked list, memoization
+- **Labs**
+     l6d: linked list 
+     MidSem-B: 1d and 2d arrays, transpose of 2d array, sorting, double pointers 
+
 ## Acknowledgments
 
 This work is part of my coursework at IIIT, and the problems provided in the handouts are part of the Computer Programming course curriculum.
-
